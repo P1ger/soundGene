@@ -38,12 +38,12 @@ The same process can then be iterated at pleasure with the generated sounds to c
 
 ## Download
 
-soundGeneSingle and soundGeneDual can be downloaded as standalone applications for Mac OS at [this link] (https://drive.google.com/open?id=13ACVA16cLJI1FYRd-KncAER-LamD8UNU).
+soundGeneSingle and soundGeneDual can be downloaded as standalone applications for Mac OS at [this link](https://drive.google.com/open?id=13ACVA16cLJI1FYRd-KncAER-LamD8UNU).
 
 
 ## Acknowledgements 
 
-Thanks to Bill Vorn for its [LifeTools externals for MaxMSP] (http://billvorn.concordia.ca/research/software/lifetools.html). Evolve was used in soundGeneSingle and Mutation in soundGeneDual.
+Thanks to Bill Vorn for its [LifeTools externals for MaxMSP](http://billvorn.concordia.ca/research/software/lifetools.html). Evolve was used in soundGeneSingle and Mutation in soundGeneDual.
 
 
 
