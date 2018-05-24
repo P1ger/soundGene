@@ -43,7 +43,7 @@ soundGeneSingle and soundGeneDual can be downloaded as standalone applications f
 
 ## Acknowledgements 
 
-Thanks to Bill Vorn for its [LifeTools externals for MaxMSP](http://billvorn.concordia.ca/research/software/lifetools.html). Evolve was used in soundGeneSingle and Mutation in soundGeneDual.
+Thanks to Bill Vorn for its [LifeTools externals for MaxMSP](http://billvorn.concordia.ca/research/software/lifetools.html). *Evolve* was used in soundGeneSingle while *Mutation* in soundGeneDual.
 
 
 
