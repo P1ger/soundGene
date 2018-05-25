@@ -25,7 +25,9 @@ If *Evolve Sound Population from selected* is clicked, a new generation is now r
 2. **Crossover**: Single parameter settings can be swapped from one sound to the other, depending from  a probability set by the user using the *Xover* slider (e.g.: the wave type in a synthesizer could be swapped between sound 1 and 2).
 3 **Mutation**: Some paramter settings could be randomly modified. 
 
-The user can now audit the new sounds and iterate this process as desired. If needed, the loaded VST can be opned. and for each patch single parameters can be modifed from the VST own GUI. In this case, however, a dedicated button needs to be pressed to run a new generation (Evolve Population from Fine Tuned Parameters). 
+The user can now audit the new sounds and iterate this process as desired. If needed, the loaded VST can be opned. and for each patch single parameters can be modifed from the VST own GUI. In this case, however, a dedicated button needs to be pressed to run a new generation (Evolve Population from Fine Tuned Parameters).
+
+A problem when switching between patches is that the system has no knowledge about gain or volume, so sounds could be extremely loud. A safe mode is provided: if active the master volume will be rolled back to -30 dB when the user switches between sounds or seeds (and is active by default).
 
 Finally, another audio player is provided (bottom right) to enable the listening of the patches 
 
