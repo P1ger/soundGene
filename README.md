@@ -42,7 +42,7 @@ The same process can then be iterated at pleasure with the generated sounds to c
 
 ## Download
 
-soundGeneSingle and soundGeneDual can be downloaded as standalone applications for Mac OS at [this link](https://drive.google.com/open?id=1--Gb8fwftNrHryhkHi0zLf5spPqGGwgT).
+soundGeneSingle and soundGeneDual can be downloaded as standalone applications for Mac OS at [this link](https://drive.google.com/open?id=183aw3xyUketQ8A72CxoXMTtZNHeBY8zQ).
 
 ## Video 
 A video walkthrough of soundGeneSingle is available [here](https://youtu.be/nvRyfEYu1qI)
