@@ -13,7 +13,7 @@ Two different version of soundGene exist, a single candidate choice one (soundGe
 
 ### Single Candidate (soundGeneSingle)
 
-![alt text](https://s7.postimg.cc/dzj0ssup7/Screenshot_13.png)
+![alt text](https://s9.postimg.cc/j86f27xbj/Screen_Shot_2018-05-25_at_10.26.59.png)
 
 After loading the desired VST, the software generate eight different *seed sounds* for the user after the dedicated button is pressed (*Generate 1st population of seed sounds*). The user can switch between the different patches in real time by clicking on the Seed buttons. MIDI input can be sent through an external device or with the dedicated keyboard on screen. In case of audio effects (e.g.:reverb, distortion ecc.), sound files can be loaded on the  dedicated sample player to be played back and processed.
 
@@ -41,6 +41,9 @@ The same process can then be iterated at pleasure with the generated sounds to c
 ## Download
 
 soundGeneSingle and soundGeneDual can be downloaded as standalone applications for Mac OS at [this link](https://drive.google.com/open?id=13ACVA16cLJI1FYRd-KncAER-LamD8UNU).
+
+## Video 
+A video walkthrough of soundGeneSingle is available [here](https://youtu.be/nvRyfEYu1qI)
 
 
 ## Acknowledgements 
