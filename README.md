@@ -13,7 +13,7 @@ Two different version of soundGene exist, a single candidate choice one (soundGe
 
 ### Single Candidate (soundGeneSingle)
 
-![alt text](https://s9.postimg.cc/j86f27xbj/Screen_Shot_2018-05-25_at_10.26.59.png)
+![alt text](https://s9.postimg.cc/rruuwir8v/Screen_Shot_2018-05-25_at_15.08.09.png)
 
 After loading the desired VST, the software generate eight different *seed sounds* for the user after the dedicated button is pressed (*Generate 1st population of seed sounds*). The user can switch between the different patches in real time by clicking on the Seed buttons. MIDI input can be sent through an external device or with the dedicated keyboard on screen. In case of audio effects (e.g.:reverb, distortion ecc.), sound files can be loaded on the  dedicated sample player to be played back and processed.
 
@@ -34,7 +34,7 @@ Finally, another audio player is provided (bottom right) to enable the listening
 
 ##  Double Candidate (soundGeneDual)
 
-![alt text](https://s9.postimg.cc/t4u0f0hvj/dualscreen.png)
+![alt text](https://s9.postimg.cc/b43cu86tr/Screen_Shot_2018-05-25_at_15.08.38.png)
 
 soundGeneDual works similarly to the single candidate version. Firstly, eight different sound seeds are generated randomly, exaclty as before. In this case, however, the user select two seeds for the generation from the check boxes on the right. These will act as parents for the new sound population: the algorithm will perform crossover and mutation between the two selected seeds to generate eight new patches.
 
