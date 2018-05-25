@@ -32,6 +32,8 @@ Finally, another audio player is provided (bottom right) to enable the listening
 
 ##  Double Candidate (soundGeneDual)
 
+![alt text](https://s9.postimg.cc/t4u0f0hvj/dualscreen.png)
+
 soundGeneDual works similarly to the single candidate version. Firstly, eight different sound seeds are generated randomly, exaclty as before. In this case, however, the user select two seeds for the generation from the check boxes on the right. These will act as parents for the new sound population: the algorithm will perform crossover and mutation between the two selected seeds to generate eight new patches.
 
 The same process can then be iterated at pleasure with the generated sounds to create new patches from two candidates. 
