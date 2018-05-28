@@ -11,6 +11,8 @@ The software works hosting files using Steinberg's Virtual Studio Technology (VS
 
 Two different version of soundGene exist, a single candidate choice one (soundGene.maxpat) and a double candidate one (soundGeneDual.maxpat).
 
+**Please Note**: soundGeneDualWin.maxapat was added after the module. It's a version of soundGeneDual that does not use any external library for the genetic algorithm (an external object was used for the mutation step), and therefore is compatible both with Win/Mac.
+
 ### Single Candidate (soundGeneSingle)
 
 ![alt text](https://s9.postimg.cc/rruuwir8v/Screen_Shot_2018-05-25_at_15.08.09.png)
